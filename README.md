@@ -16,6 +16,8 @@ also you can see my Personal GitHub account at [Bahomoddah](https://github.com/b
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohBahomoddah&label=Profile%20views&color=0e75b6&style=flat" alt="MohBahomoddah" /> </p>
+
 ### Socials
 <p align="left">
  <a href="https://www.linkedin.com/in/mohammed-bahomoddah/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
